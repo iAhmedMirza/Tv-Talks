@@ -1,0 +1,143 @@
+.header{
+    width: 100%;
+    height: 100%;
+    background: #0E7AA8;
+    display: flex;
+}
+
+.header h1{
+    color: white;
+    font-size: 38px;
+    margin-top: 2.7%;
+}
+
+.header img{
+    margin: 12px;
+}
+
+.header-two{
+    width: 100%;
+    height: 30px;
+    background: #143369;
+    display: flex;
+}
+
+.header-two h1{
+    color: white;
+    margin-left: 10%;
+    margin-top: 4px;
+    font-size: 18px;
+}
+
+.header-two h2{
+    color: white;
+    margin-left: 10%;
+    margin-top: 4px;
+    font-size: 18px;
+}
+
+.header-two h3{
+    color: white;
+    margin-left: 10%;
+    margin-top: 4px;
+    font-size: 18px;
+}
+
+.header-two h4{
+    color: white;
+    margin-left: 10%;
+    margin-top: 4px;
+    font-size: 18px;
+}
+
+.header-two h5{
+    color: white;
+    margin-left: 10%;
+    margin-top: 4px;
+    font-size: 18px;
+}
+
+.header-two h6{
+    color: white;
+    margin-left: 10%;
+    margin-top: 4px;
+    font-size: 18px;
+}
+.header-three{
+    width: 100%;
+    height: 100%;
+    background: #808080;
+    display: flex;
+}
+
+.header-three h1{
+    color: white;
+    font-size: 19px;
+    margin-left: 5%;
+    margin-top: 17px;
+}
+
+.header-three input{
+    width: 16%;
+    height: 36%;
+    border-radius: 7px;
+    border: 2px solid #143369;
+    margin-top: 19px;
+    margin-left: 10px;
+    background: fixed;
+}
+
+.header-three h2{
+    color: white;
+    font-size: 19px;
+    margin-left: -22%;
+    margin-top: 40px;
+}
+
+.search2 input{
+    width: 300px;
+    height: 21px;
+    border-radius: 7px;
+    border: 2px solid #143369;
+    margin-top: 50px;
+    margin-left: 10px;
+    background: fixed;
+}
+
+.header-four{
+    width: 100%;
+    height: 5px;
+    background: #143369;
+}
+
+.header-five-one{ 
+    width: 100%%;
+    height: 550px;
+    background: #B1B1B1;
+}
+
+.header-five-one h1{
+    font-size: 20px;
+    padding-left: 3%;
+    width: 20%;
+    color: white;
+    background: #143369;
+}
+
+.header-five-one h2{
+    font-size: 20px;
+    padding-left: 3%;
+    width: 20%;
+    color: white;
+    background: #143369;
+}
+
+.header-five-one input{
+    width: 60%;
+    height: 50px;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: #143369;
+    margin-left: 2%;
+    background: fixed;
+}
